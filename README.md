@@ -70,4 +70,4 @@ Cada perfil possui um comportamento específico, com **mensagens claras e feedba
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/validador-acesso-switch.git
+   git clone https://github.com/borgesfariasj2-create/validador-de-perfil-basico-js.git
